@@ -9,5 +9,9 @@ Doing this will give you amazing perspective on mathematics, after a few months.
 So with this project i'm trying to apply that but mostly for computer science concepts that i don't know and math concepts related to it.
 
 
-## CS Concepts
+## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
+  [Foldoc](http://foldoc.org/idempotent).
+    
+
+## Data structures
