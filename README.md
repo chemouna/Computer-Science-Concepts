@@ -12,5 +12,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 * [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree).    
+* [Splay Tree](https://en.wikipedia.org/wiki/Splay_tree), An [implementation in clojure](https://github.com/mathsaey/Clojure-Cache/blob/master/src/splay_tree.clj).
 
 ## Data structures
