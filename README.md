@@ -11,7 +11,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
-  [Foldoc](http://foldoc.org/idempotent).
-    
+* [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree).    
 
 ## Data structures
