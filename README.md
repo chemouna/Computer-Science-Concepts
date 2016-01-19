@@ -15,5 +15,8 @@ So with this project i'm trying to apply that but mostly for computer science co
       - [Rosetta code Tree traversal](http://rosettacode.org/wiki/Tree_traversal)
 * [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree).    
 * [Splay Tree](https://en.wikipedia.org/wiki/Splay_tree), An [implementation in clojure](https://github.com/mathsaey/Clojure-Cache/blob/master/src/splay_tree.clj).
-
+* [Treap](https://en.wikipedia.org/wiki/Treap)
+      - An implementation in Go : https://github.com/steveyen/gtreap
+      - [Key-value persistence library with Treap as the fundamental data structure](https://github.com/steveyen/gkvlite).
+      
 ## Data structures
