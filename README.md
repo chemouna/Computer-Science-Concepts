@@ -15,7 +15,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Referential transparency](https://en.wikipedia.org/wiki/Referential_transparency).
 * [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation).
 * [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference).
-* (Homoiconicity) https://en.wikipedia.org/wiki/Homoiconicity.
+* [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity).
+* [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
