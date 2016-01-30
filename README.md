@@ -14,6 +14,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree).    
 * [Referential transparency](https://en.wikipedia.org/wiki/Referential_transparency).
 * [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation).
+* [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference).
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
