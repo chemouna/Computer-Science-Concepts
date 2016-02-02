@@ -29,6 +29,8 @@ So with this project i'm trying to apply that but mostly for computer science co
       - An implementation in Go : https://github.com/steveyen/gtreap
       - [Key-value persistence library with Treap as the fundamental data structure](https://github.com/steveyen/gkvlite).
 * [Retroactive data structures](https://en.wikipedia.org/wiki/Retroactive_data_structures).
+* [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)).
 
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons).
+* [Lisp reader](https://en.wikipedia.org/wiki/Lisp_reader).
