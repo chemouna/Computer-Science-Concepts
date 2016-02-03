@@ -30,6 +30,7 @@ So with this project i'm trying to apply that but mostly for computer science co
       - [Key-value persistence library with Treap as the fundamental data structure](https://github.com/steveyen/gkvlite).
 * [Retroactive data structures](https://en.wikipedia.org/wiki/Retroactive_data_structures).
 * [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)).
+* [Linked list](https://en.wikipedia.org/wiki/Linked_list).
 
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons).
