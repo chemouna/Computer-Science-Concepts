@@ -18,6 +18,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity).
 * [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
 
+## Techniques
+* [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
+
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 
