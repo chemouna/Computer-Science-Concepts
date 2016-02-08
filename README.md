@@ -37,6 +37,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Operations
 * [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR).
+* [Cons](https://en.wikipedia.org/wiki/Cons).
 
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons).
