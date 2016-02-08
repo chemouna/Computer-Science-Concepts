@@ -35,6 +35,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)).
 * [Linked list](https://en.wikipedia.org/wiki/Linked_list).
 
+## Operations
+* [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR).
+
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons).
 * [Lisp reader](https://en.wikipedia.org/wiki/Lisp_reader).
