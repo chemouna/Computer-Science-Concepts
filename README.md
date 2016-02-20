@@ -17,6 +17,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity).
 * [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
 
+
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
 
@@ -37,6 +38,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Operations
 * [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR).
 * [Cons](https://en.wikipedia.org/wiki/Cons).
+
+## Functions
+* [Strict function](https://en.wikipedia.org/wiki/Strict_function)
 
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons).
