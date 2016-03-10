@@ -16,6 +16,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference).
 * [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity).
 * [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
+* [Pattern matching](Https://en.wikipedia.org/wiki/Pattern_matching)
+* [Communicating sequential processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
