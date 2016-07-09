@@ -18,12 +18,14 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science)).
 * [Pattern matching](Https://en.wikipedia.org/wiki/Pattern_matching)
 * [Communicating sequential processes](https://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* [Paramorphisms](http://stackoverflow.com/questions/13317242/what-are-paramorphisms)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
+* [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
