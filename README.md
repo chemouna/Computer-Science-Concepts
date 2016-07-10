@@ -40,6 +40,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Retroactive data structures](https://en.wikipedia.org/wiki/Retroactive_data_structures).
 * [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)).
 * [Linked list](https://en.wikipedia.org/wiki/Linked_list).
+* [Binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
