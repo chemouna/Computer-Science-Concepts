@@ -61,3 +61,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Programming Languages
 * [miniKaren](https://en.wikipedia.org/wiki/MiniKanren).
+
+## Mathematics 
+* [Monotonic function](https://en.wikipedia.org/wiki/Monotonic_function)
