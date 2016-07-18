@@ -64,3 +64,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Mathematics 
 * [Monotonic function](https://en.wikipedia.org/wiki/Monotonic_function)
+
+## Category Theory 
+* [Morphism](https://en.wikipedia.org/wiki/Morphism)
+* [Kan extension](https://en.wikipedia.org/wiki/Kan_extension)
