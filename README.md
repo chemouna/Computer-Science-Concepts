@@ -68,3 +68,5 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
 * [Kan extension](https://en.wikipedia.org/wiki/Kan_extension)
+* [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
+* [nlab: isomorphism](https://ncatlab.org/nlab/show/isomorphism)
