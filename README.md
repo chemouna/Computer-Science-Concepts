@@ -42,6 +42,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Linked list](https://en.wikipedia.org/wiki/Linked_list).
 * [Binary search tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 * [Double-ended queue](https://en.wikipedia.org/wiki/Double-ended_queue)
+* [2-3 Tree](https://en.wikipedia.org/wiki/2%E2%80%933_tree)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
