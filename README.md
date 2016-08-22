@@ -78,3 +78,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
 * [nlab: isomorphism](https://ncatlab.org/nlab/show/isomorphism)
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
+* [Bijection, injection and surjection](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection)
