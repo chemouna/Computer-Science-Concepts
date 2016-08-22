@@ -68,6 +68,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Mathematics 
 * [Monotonic function](https://en.wikipedia.org/wiki/Monotonic_function)
+* [Topology](https://en.wikipedia.org/wiki/Topology)
+* [Topological space](https://en.wikipedia.org/wiki/Topological_space)
+* [Homotopy](https://en.wikipedia.org/wiki/Homotopy)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
