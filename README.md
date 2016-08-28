@@ -27,6 +27,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 * [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
+* [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
+* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
