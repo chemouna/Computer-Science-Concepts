@@ -75,6 +75,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Topology](https://en.wikipedia.org/wiki/Topology)
 * [Topological space](https://en.wikipedia.org/wiki/Topological_space)
 * [Homotopy](https://en.wikipedia.org/wiki/Homotopy)
+* [Pythagorean triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
