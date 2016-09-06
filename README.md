@@ -77,6 +77,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Homotopy](https://en.wikipedia.org/wiki/Homotopy)
 * [Pythagorean triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 * [Coprime integers](https://en.wikipedia.org/wiki/Coprime_integers)
+* [Equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
