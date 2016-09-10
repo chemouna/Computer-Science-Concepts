@@ -29,6 +29,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
+* [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
@@ -78,6 +79,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Pythagorean triple](https://en.wikipedia.org/wiki/Pythagorean_triple)
 * [Coprime integers](https://en.wikipedia.org/wiki/Coprime_integers)
 * [Equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation)
+* [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
