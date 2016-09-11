@@ -83,6 +83,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 * [Möbius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
+* [Square free integer](https://en.wikipedia.org/wiki/Square-free_integer)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
