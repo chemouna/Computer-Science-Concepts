@@ -81,6 +81,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Coprime integers](https://en.wikipedia.org/wiki/Coprime_integers)
 * [Equivalence relation](https://en.wikipedia.org/wiki/Equivalence_relation)
 * [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
+* [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+* [Möbius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
