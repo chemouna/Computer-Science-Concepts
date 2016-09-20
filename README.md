@@ -100,3 +100,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Part of speech](https://en.wikipedia.org/wiki/Part_of_speech)
 * [Lemma](https://en.wikipedia.org/wiki/Lemma_(morphology))
 * [Stem](https://en.wikipedia.org/wiki/Word_stem)
+* [Stemming](https://en.wikipedia.org/wiki/Stemming)
+* [Lemmatisation](https://en.wikipedia.org/wiki/Lemmatisationa)
+* [Treebank](https://en.wikipedia.org/wiki/Treebank)
