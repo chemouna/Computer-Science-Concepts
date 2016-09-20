@@ -96,3 +96,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## NLP 
 * [Text corpus](https://en.wikipedia.org/wiki/Text_corpus)
+* [Part-of-speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
+* [Part of speech](https://en.wikipedia.org/wiki/Part_of_speech)
+* [Lemma](https://en.wikipedia.org/wiki/Lemma_(morphology))
+* [Stem](https://en.wikipedia.org/wiki/Word_stem)
