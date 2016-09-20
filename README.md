@@ -84,6 +84,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 * [Möbius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 * [Square free integer](https://en.wikipedia.org/wiki/Square-free_integer)
+* [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
@@ -92,3 +93,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [nlab: isomorphism](https://ncatlab.org/nlab/show/isomorphism)
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
 * [Bijection, injection and surjection](https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection)
+
+## NLP 
+* [Text corpus](https://en.wikipedia.org/wiki/Text_corpus)
