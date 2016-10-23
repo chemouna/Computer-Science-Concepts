@@ -34,7 +34,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
-
+* [O(n log n)](http://www.crsr.net/Notes/BigO.html)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
