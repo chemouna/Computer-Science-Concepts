@@ -32,6 +32,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 * [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 
+## Algorithms Analysis
+* [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
+
+
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
 
