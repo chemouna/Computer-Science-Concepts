@@ -37,6 +37,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
 * [O(n log n)](http://www.crsr.net/Notes/BigO.html)
 * [On fibonacci numbers as an example of asymptotic complexity](https://cdsmith.wordpress.com/2011/07/20/on-fibonacci-numbers-as-an-example-of-asymptotic-complexity/)
+* [Proving Running Times With Induction](http://www.cs.cornell.edu/courses/cs312/2007fa/recitations/rec12.html)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
