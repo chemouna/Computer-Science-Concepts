@@ -38,6 +38,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [O(n log n)](http://www.crsr.net/Notes/BigO.html)
 * [On fibonacci numbers as an example of asymptotic complexity](https://cdsmith.wordpress.com/2011/07/20/on-fibonacci-numbers-as-an-example-of-asymptotic-complexity/)
 * [Proving Running Times With Induction](http://www.cs.cornell.edu/courses/cs312/2007fa/recitations/rec12.html)
+* [Fast incremental sort](http://larshagencpp.github.io/blog/2016/04/23/fast-incremental-sort)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
