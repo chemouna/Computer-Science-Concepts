@@ -57,6 +57,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Double-ended queue](https://en.wikipedia.org/wiki/Double-ended_queue)
 * [2-3 Tree](https://en.wikipedia.org/wiki/2%E2%80%933_tree)
 * [Zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure))
+* [Priority queue](https://en.wikipedia.org/wiki/Priority_queue)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
