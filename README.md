@@ -21,6 +21,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Paramorphisms](http://stackoverflow.com/questions/13317242/what-are-paramorphisms)
 * [Polymorphic recursion](https://en.wikipedia.org/wiki/Polymorphic_recursion)
 * [Coinduction](http://lambda.jstolarek.com/2015/03/the-basics-of-coinduction/)
+* [Hash consing](https://en.wikipedia.org/wiki/Hash_consing)
+* [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
