@@ -64,6 +64,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Binary tree](https://en.wikipedia.org/wiki/Binary_tree)
 * [Trie](https://en.wikipedia.org/wiki/Trie)
 * [Prefix trees; Comparison between Trie, Ternary Search Tree and Radix Tree](https://maitesin.github.io//Prefix_trees/)
+* [A Probing Hash Table Framework](https://chara.cs.illinois.edu/sites/cgeigle/blog/2016/01/29/a-probing-hash-table-framework/)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
