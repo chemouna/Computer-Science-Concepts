@@ -34,6 +34,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 * [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
 * [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+* [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
