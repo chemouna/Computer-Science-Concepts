@@ -24,13 +24,13 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Hash consing](https://en.wikipedia.org/wiki/Hash_consing)
 * [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference)
 * [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+* [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
 
 ## Algorithms
-* [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_searc
-h_algorithm).
+* [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 * [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
