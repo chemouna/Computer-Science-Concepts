@@ -7,7 +7,6 @@ Doing this will give you amazing perspective on mathematics, after a few months.
 
 So with this project i'm trying to apply that but mostly for computer science concepts that i don't know and math concepts related to it.
 
-
 ## Concepts
 * [Idempotence](https://en.wikipedia.org/wiki/Idempotence).
 * [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree).    
@@ -44,6 +43,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [On fibonacci numbers as an example of asymptotic complexity](https://cdsmith.wordpress.com/2011/07/20/on-fibonacci-numbers-as-an-example-of-asymptotic-complexity/)
 * [Proving Running Times With Induction](http://www.cs.cornell.edu/courses/cs312/2007fa/recitations/rec12.html)
 * [Fast incremental sort](http://larshagencpp.github.io/blog/2016/04/23/fast-incremental-sort)
+* [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
