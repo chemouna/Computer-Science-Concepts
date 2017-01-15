@@ -24,6 +24,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference)
 * [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
 * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+* [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance)
+* [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
@@ -69,6 +71,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Prefix trees; Comparison between Trie, Ternary Search Tree and Radix Tree](https://maitesin.github.io//Prefix_trees/)
 * [A Probing Hash Table Framework](https://chara.cs.illinois.edu/sites/cgeigle/blog/2016/01/29/a-probing-hash-table-framework/)
 * [AVL tree](https://en.wikipedia.org/wiki/AVL_tree)
+* [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
