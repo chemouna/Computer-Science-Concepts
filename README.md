@@ -73,6 +73,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [A Probing Hash Table Framework](https://chara.cs.illinois.edu/sites/cgeigle/blog/2016/01/29/a-probing-hash-table-framework/)
 * [AVL tree](https://en.wikipedia.org/wiki/AVL_tree)
 * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Hashtable](https://en.wikipedia.org/wiki/Hash_table)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
