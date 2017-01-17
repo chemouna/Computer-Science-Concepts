@@ -40,6 +40,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
 * [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
+* [String searching algorithm](https://en.wikipedia.org/wiki/String_searching_algorithm)
+* [Approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)
+* [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
