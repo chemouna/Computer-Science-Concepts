@@ -44,6 +44,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)
 * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
@@ -79,6 +80,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [AVL tree](https://en.wikipedia.org/wiki/AVL_tree)
 * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Hashtable](https://en.wikipedia.org/wiki/Hash_table)
+* [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
@@ -133,3 +135,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Stemming](https://en.wikipedia.org/wiki/Stemming)
 * [Lemmatisation](https://en.wikipedia.org/wiki/Lemmatisationa)
 * [Treebank](https://en.wikipedia.org/wiki/Treebank)
+
+## Systems
+* [Spell checker](https://en.wikipedia.org/wiki/Spell_checker)
+* [1000x Faster Spelling Correction algorithm](http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/)
