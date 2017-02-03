@@ -81,6 +81,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
 * [Hashtable](https://en.wikipedia.org/wiki/Hash_table)
 * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Hashtable introduction](http://cecilsunkure.blogspot.fr/2012/07/hash-tables.html)
+* [Five Myths about Hash Tables](https://hughewilliams.com/2012/10/01/five-myths-about-hash-tables/)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
