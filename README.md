@@ -48,6 +48,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
