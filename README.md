@@ -45,6 +45,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
 * [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
