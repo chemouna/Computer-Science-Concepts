@@ -53,6 +53,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Cache-oblivious algorithm](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
