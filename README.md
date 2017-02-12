@@ -30,29 +30,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
 
-## Algorithms
-* [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-* [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
-* [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
-* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
-* [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
-* [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
-* [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
-* [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
-* [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
-* [String searching algorithm](https://en.wikipedia.org/wiki/String_searching_algorithm)
-* [Approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)
-* [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
-* [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
-* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
-* [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-* [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
-* [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
-* [Tim Sort](https://en.wikipedia.org/wiki/Timsort)
-* [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort)
-
 ## Algorithms Analysis
 * [How To Avoid O-Abuse and Bribes](https://rjlipton.wordpress.com/2009/07/24/how-to-avoid-o-abuse-and-bribes/)
 * [O(n log n)](http://www.crsr.net/Notes/BigO.html)
@@ -60,6 +37,32 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Proving Running Times With Induction](http://www.cs.cornell.edu/courses/cs312/2007fa/recitations/rec12.html)
 * [Fast incremental sort](http://larshagencpp.github.io/blog/2016/04/23/fast-incremental-sort)
 * [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+
+## Algorithms
+* [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+* [QuickSelect Algorithm](https://en.wikipedia.org/wiki/Quickselect)
+* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
+* [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
+* [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)
+* [Binary Search](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+* [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
+* [String searching algorithm](https://en.wikipedia.org/wiki/String_searching_algorithm)
+* [Approximate string matching](https://en.wikipedia.org/wiki/Approximate_string_matching)
+* [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+* [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
+* [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+## Sorting
+* [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
+* [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+* [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+* [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+* [Tim Sort](https://en.wikipedia.org/wiki/Timsort)
+* [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort)
+* [Why is quicksort better than other sorting algorithms in practice?](http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
