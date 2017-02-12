@@ -39,6 +39,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 * [What would cause an algorithm to have O(log log n) complexity?](http://stackoverflow.com/questions/16472012/what-would-cause-an-algorithm-to-have-olog-log-n-complexity)
 * [What would cause an algorithm to have O(log n) complexity?](http://stackoverflow.com/questions/9152890/what-would-cause-an-algorithm-to-have-olog-n-complexity)
+* [What is pseudopolynomial time? How does it differ from polynomial time?](http://stackoverflow.com/questions/19647658/what-is-pseudopolynomial-time-how-does-it-differ-from-polynomial-time/19647659#19647659)
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
