@@ -38,6 +38,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Fast incremental sort](http://larshagencpp.github.io/blog/2016/04/23/fast-incremental-sort)
 * [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 * [What would cause an algorithm to have O(log log n) complexity?](http://stackoverflow.com/questions/16472012/what-would-cause-an-algorithm-to-have-olog-log-n-complexity)
+* [What would cause an algorithm to have O(log n) complexity?](http://stackoverflow.com/questions/9152890/what-would-cause-an-algorithm-to-have-olog-n-complexity)
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
