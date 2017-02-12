@@ -37,6 +37,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Proving Running Times With Induction](http://www.cs.cornell.edu/courses/cs312/2007fa/recitations/rec12.html)
 * [Fast incremental sort](http://larshagencpp.github.io/blog/2016/04/23/fast-incremental-sort)
 * [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+* [What would cause an algorithm to have O(log log n) complexity?](http://stackoverflow.com/questions/16472012/what-would-cause-an-algorithm-to-have-olog-log-n-complexity)
 
 ## Algorithms
 * [Binary search algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
@@ -64,6 +65,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Tim Sort](https://en.wikipedia.org/wiki/Timsort)
 * [Bucket Sort](https://en.wikipedia.org/wiki/Bucket_sort)
 * [Why is quicksort better than other sorting algorithms in practice?](http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice)
+* [External Sorting](https://en.wikipedia.org/wiki/External_sorting)
+* [What is a the fastest sorting algorithm for an array of integers?](http://cs.stackexchange.com/questions/18536/what-is-a-the-fastest-sorting-algorithm-for-an-array-of-integers)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
