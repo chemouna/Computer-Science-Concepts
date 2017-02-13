@@ -157,3 +157,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Systems
 * [Spell checker](https://en.wikipedia.org/wiki/Spell_checker)
 * [1000x Faster Spelling Correction algorithm](http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/)
+
+## Other algorithms
+* [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
+* [If a String Contains an Anagram of Another String](http://blog.gainlo.co/index.php/2016/04/08/if-a-string-contains-an-anagram-of-another-string/)
+* [Longest Substring Without Repeating Characters](http://blog.gainlo.co/index.php/2016/10/07/facebook-interview-longest-substring-without-repeating-characters/)
