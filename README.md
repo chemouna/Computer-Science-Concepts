@@ -26,6 +26,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance)
 * [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+* [Element distinctness problem](https://en.wikipedia.org/wiki/Element_distinctness_problem)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
@@ -99,6 +100,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 * [Hashtable introduction](http://cecilsunkure.blogspot.fr/2012/07/hash-tables.html)
 * [Five Myths about Hash Tables](https://hughewilliams.com/2012/10/01/five-myths-about-hash-tables/)
+* [Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
@@ -157,6 +159,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Systems
 * [Spell checker](https://en.wikipedia.org/wiki/Spell_checker)
 * [1000x Faster Spelling Correction algorithm](http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/)
+
+## Theorems and priniciples
+* [Pigeonhole principle](https://en.wikipedia.org/wiki/Pigeonhole_principle)
 
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
