@@ -27,6 +27,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance)
 * [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
 * [Element distinctness problem](https://en.wikipedia.org/wiki/Element_distinctness_problem)
+* [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
