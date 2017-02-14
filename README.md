@@ -162,3 +162,5 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
 * [If a String Contains an Anagram of Another String](http://blog.gainlo.co/index.php/2016/04/08/if-a-string-contains-an-anagram-of-another-string/)
 * [Longest Substring Without Repeating Characters](http://blog.gainlo.co/index.php/2016/10/07/facebook-interview-longest-substring-without-repeating-characters/)
+* [Algorithm to find top 10 search terms](http://stackoverflow.com/questions/3260653/algorithm-to-find-top-10-search-terms)
+* [How to pair socks from a pile efficiently](http://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently?rq=1)
