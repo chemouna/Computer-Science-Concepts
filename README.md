@@ -62,9 +62,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
+* [Transpose graph](https://en.wikipedia.org/wiki/Transpose_graph)
 
 ## Sorting
-* [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
+* [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
 * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
