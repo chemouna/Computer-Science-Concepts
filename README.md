@@ -64,6 +64,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
 * [Transpose graph](https://en.wikipedia.org/wiki/Transpose_graph)
 * [Computing Strongly Connected Components](http://scienceblogs.com/goodmath/2007/10/30/computing-strongly-connected-c/)
+* [Puzzling Graphs: Problem Modeling with Graphs](http://scienceblogs.com/goodmath/2007/09/10/puzzling-graphs-problem-modeli/)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
