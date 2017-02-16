@@ -59,6 +59,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 * [Cache-oblivious algorithm](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
+* [Flood fill](https://en.wikipedia.org/wiki/Flood_fill)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
