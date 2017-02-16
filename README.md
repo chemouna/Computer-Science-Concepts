@@ -66,7 +66,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Computing Strongly Connected Components](http://scienceblogs.com/goodmath/2007/10/30/computing-strongly-connected-c/)
 * [Puzzling Graphs: Problem Modeling with Graphs](http://scienceblogs.com/goodmath/2007/09/10/puzzling-graphs-problem-modeli/)
 * [Adjacency List](https://en.wikipedia.org/wiki/Adjacency_list)
-o
+* [Adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
+
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
