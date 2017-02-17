@@ -62,6 +62,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Flood fill](https://en.wikipedia.org/wiki/Flood_fill)
 * [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
 * [Search Algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
+* [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
