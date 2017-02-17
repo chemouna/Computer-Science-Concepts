@@ -185,3 +185,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Algorithm to find top 10 search terms](http://stackoverflow.com/questions/3260653/algorithm-to-find-top-10-search-terms)
 * [How to pair socks from a pile efficiently](http://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently?rq=1)
 * [On a 2d array sorted in increasing order from left to right and top to bottom, best way to search for a target number?](http://stackoverflow.com/questions/2457792/given-a-2d-array-sorted-in-increasing-order-from-left-to-right-and-top-to-bottom)
+* [Searching a Sorted Matrix Faster](http://twistedoakstudios.com/blog/Post5365_searching-a-sorted-matrix-faster)
