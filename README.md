@@ -64,6 +64,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Search Algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
 * [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
 * [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
+* [Subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
