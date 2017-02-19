@@ -74,6 +74,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Adjacency List](https://en.wikipedia.org/wiki/Adjacency_list)
 * [Adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
 
+## Dynamic Programming
+* [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
+
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
