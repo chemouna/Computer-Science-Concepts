@@ -116,6 +116,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Five Myths about Hash Tables](https://hughewilliams.com/2012/10/01/five-myths-about-hash-tables/)
 * [Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 * [Search Data Structure](https://en.wikipedia.org/wiki/Search_data_structure)
+* [Rosetta Code Priority Queue](https://rosettacode.org/wiki/Priority_queue)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
