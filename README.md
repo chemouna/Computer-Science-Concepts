@@ -196,6 +196,7 @@ hare)
 * [Overflow flag](https://en.wikipedia.org/wiki/Overflow_flag)
 * [Signalling Integer Overflows in Java](http://www.drdobbs.com/jvm/signalling-integer-overflows-in-java/210500001?pgno=1)
 * [NUM00-J. Detect or prevent integer overflow](https://www.securecoding.cert.org/confluence/display/java/NUM00-J.+Detect+or+prevent+integer+overflow)
+* [Basic Integer Overflows](http://phrack.org/issues/60/10.html#article)
 
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
