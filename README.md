@@ -58,7 +58,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)
 * [Depth First Search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [Cache-oblivious algorithm](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
+* [Cache-oblivious algorithm](https://en.wikipedia.org/wiki/Cache-ob\livious_algorithm)
 * [Flood fill](https://en.wikipedia.org/wiki/Flood_fill)
 * [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
 * [Search Algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
@@ -71,6 +71,7 @@ hare)
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
 * [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
 * [Common bugs and why exercises matter (binary search part 2)](https://reprog.wordpress.com/2010/04/21/binary-search-redux-part-1/#comment-2178)
+* [Testing is not a substitute for thinking (binary search part 3)](https://reprog.wordpress.com/2010/04/23/testing-is-not-a-substitute-for-thinking-binary-search-part-3/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
