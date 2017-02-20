@@ -202,6 +202,9 @@ hare)
 * [NUM00-J. Detect or prevent integer overflow](https://www.securecoding.cert.org/confluence/display/java/NUM00-J.+Detect+or+prevent+integer+overflow)
 * [Basic Integer Overflows](http://phrack.org/issues/60/10.html#article)
 
+## Low level 
+* [Call stack](https://en.wikipedia.org/wiki/Call_stack)
+
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
 * [If a String Contains an Anagram of Another String](http://blog.gainlo.co/index.php/2016/04/08/if-a-string-contains-an-anagram-of-another-string/)
