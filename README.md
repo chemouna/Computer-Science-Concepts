@@ -29,6 +29,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Element distinctness problem](https://en.wikipedia.org/wiki/Element_distinctness_problem)
 * [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 * [Tail call](https://en.wikipedia.org/wiki/Tail_call)
+* [What is difference between tail calls and tail recursion?](https://stackoverflow.com/questions/12045299/what-is-difference-between-tail-calls-and-tail-recursion)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
