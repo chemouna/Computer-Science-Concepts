@@ -69,6 +69,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 hare)
 * [Cycle detection: The Tale of the Teleporting Turtle.](http://www.penzba.co.uk/Writings/TheTeleportingTurtle.html)
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
+* [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
+* [Common bugs and why exercises matter (binary search part 2)](https://reprog.wordpress.com/2010/04/21/binary-search-redux-part-1/#comment-2178)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
