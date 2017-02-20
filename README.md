@@ -72,6 +72,7 @@ hare)
 * [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
 * [Common bugs and why exercises matter (binary search part 2)](https://reprog.wordpress.com/2010/04/21/binary-search-redux-part-1/#comment-2178)
 * [Testing is not a substitute for thinking (binary search part 3)](https://reprog.wordpress.com/2010/04/23/testing-is-not-a-substitute-for-thinking-binary-search-part-3/)
+* [Writing correct code, part 1: invariants (binary search part 4a)](https://reprog.wordpress.com/2010/04/25/writing-correct-code-part-1-invariants-binary-search-part-4a/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
