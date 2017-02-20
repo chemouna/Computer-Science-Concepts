@@ -132,6 +132,7 @@ hare)
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
 * [System F](https://en.wikipedia.org/wiki/System_F)
 * [Typed lambda calculus](https://en.wikipedia.org/wiki/Typed_lambda_calculus)
+* [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow)
 
 ## Operations
 * [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR)
