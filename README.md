@@ -194,6 +194,7 @@ hare)
 * [IEEE floating point](https://en.wikipedia.org/wiki/IEEE_floating_point)
 * [Why Are Floating Point Numbers Inaccurate?](http://stackoverflow.com/questions/21895756/why-are-floating-point-numbers-inaccurate?rq=1)
 * [Overflow flag](https://en.wikipedia.org/wiki/Overflow_flag)
+* [Signalling Integer Overflows in Java](http://www.drdobbs.com/jvm/signalling-integer-overflows-in-java/210500001?pgno=1)
 
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
