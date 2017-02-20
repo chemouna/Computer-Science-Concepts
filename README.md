@@ -30,6 +30,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 * [Tail call](https://en.wikipedia.org/wiki/Tail_call)
 * [What is difference between tail calls and tail recursion?](https://stackoverflow.com/questions/12045299/what-is-difference-between-tail-calls-and-tail-recursion)
+* [What limitations does the JVM impose on tail-call optimization](http://softwareengineering.stackexchange.com/questions/157684/what-limitations-does-the-jvm-impose-on-tail-call-optimization)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
