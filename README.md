@@ -86,7 +86,8 @@ hare)
 * [Adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
 * [Depth-first search algorithm wiki](https://wiki.algo.informatik.tu-darmstadt.de/Depth-first_search)
 * [Breadth first search algorithm wiki](https://wiki.algo.informatik.tu-darmstadt.de/Breadth-first_search)
-* [Algorithm Wiki: Graph Traversal](https://wiki.algo.informatik.tu-darmstadt.de/Graph_traversal)
+* [Algorithms Wiki: Graph Traversal](https://wiki.algo.informatik.tu-darmstadt.de/Graph_traversal)
+* [Algorithms Wiki: Basic graph definition](https://wiki.algo.informatik.tu-darmstadt.de/Basic_graph_definitions)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
