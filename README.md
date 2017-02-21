@@ -85,6 +85,7 @@ hare)
 * [Adjacency List](https://en.wikipedia.org/wiki/Adjacency_list)
 * [Adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
 * [Depth-first search algorithm wiki](https://wiki.algo.informatik.tu-darmstadt.de/Depth-first_search)
+* [Breadth first search algorithm wiki](https://wiki.algo.informatik.tu-darmstadt.de/Breadth-first_search)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
