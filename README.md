@@ -138,6 +138,7 @@ hare)
 * [Rosetta Code Priority Queue](https://rosettacode.org/wiki/Priority_queue)
 * [Double-ended priority queue](https://en.wikipedia.org/wiki/Double-ended_priority_queue)
 * [Double-Ended Priority Queues definition and implementation](https://www.cise.ufl.edu/~sahni/dsaaj/enrich/c13/double.htm)
+* [Linked Lists Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
