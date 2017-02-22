@@ -38,6 +38,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Scalability](https://en.wikipedia.org/wiki/Scalability)
 * [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
 * [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
+* [Data redundancy](https://en.wikipedia.org/wiki/Data_redundancy)
+* [Failover](https://en.wikipedia.org/wiki/Failover)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
