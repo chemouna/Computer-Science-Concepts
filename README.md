@@ -40,6 +40,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
 * [Data redundancy](https://en.wikipedia.org/wiki/Data_redundancy)
 * [Failover](https://en.wikipedia.org/wiki/Failover)
+* [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
