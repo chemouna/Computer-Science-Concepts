@@ -36,6 +36,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Type signature](https://en.wikipedia.org/wiki/Type_signature)
 * [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 * [Scalability](https://en.wikipedia.org/wiki/Scalability)
+* [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
