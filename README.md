@@ -34,6 +34,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Method overriding](https://en.wikipedia.org/wiki/Method_overriding)
 * [Function overloading](https://en.wikipedia.org/wiki/Function_overloading)
 * [Type signature](https://en.wikipedia.org/wiki/Type_signature)
+* [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+* [Scalability](https://en.wikipedia.org/wiki/Scalability)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
