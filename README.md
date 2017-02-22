@@ -42,6 +42,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Failover](https://en.wikipedia.org/wiki/Failover)
 * [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 * [A primer on distributed computing](http://billpg.com/bacchae-co-uk/docs/dist.html)
+* [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
