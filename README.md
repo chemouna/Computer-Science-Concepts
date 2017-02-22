@@ -37,6 +37,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 * [Scalability](https://en.wikipedia.org/wiki/Scalability)
 * [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Consensus](https://en.wikipedia.org/wiki/Consensus_(computer_science))
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
