@@ -33,6 +33,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [What limitations does the JVM impose on tail-call optimization](http://softwareengineering.stackexchange.com/questions/157684/what-limitations-does-the-jvm-impose-on-tail-call-optimization)
 * [Method overriding](https://en.wikipedia.org/wiki/Method_overriding)
 * [Function overloading](https://en.wikipedia.org/wiki/Function_overloading)
+* [Type signature](https://en.wikipedia.org/wiki/Type_signature)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
