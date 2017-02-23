@@ -43,7 +43,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 * [A primer on distributed computing](http://billpg.com/bacchae-co-uk/docs/dist.html)
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
+
+## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
+* [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory)
 
 ## Concurrency 
 * [Semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming))
