@@ -47,6 +47,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Concurrency 
 * [Semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming))
 * [Mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion)
+* [Critical Section](https://en.wikipedia.org/wiki/Critical_section)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
