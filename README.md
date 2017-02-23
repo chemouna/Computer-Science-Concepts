@@ -43,7 +43,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 * [A primer on distributed computing](http://billpg.com/bacchae-co-uk/docs/dist.html)
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
+
+## Concurrency 
 * [Semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming))
+* [Mutual exclusion](https://en.wikipedia.org/wiki/Mutual_exclusion)
 
 ## Techniques
 * [Closure](https://en.wikipedia.org/wiki/Closure_(computer_programming))
