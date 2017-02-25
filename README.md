@@ -170,6 +170,7 @@ hare)
 * [System F](https://en.wikipedia.org/wiki/System_F)
 * [Typed lambda calculus](https://en.wikipedia.org/wiki/Typed_lambda_calculus)
 * [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow)
+* [Integer](https://en.wikipedia.org/wiki/Integer_(computer_science))
 
 ## Operations
 * [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR)
