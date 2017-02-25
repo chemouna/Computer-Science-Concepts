@@ -100,6 +100,7 @@ hare)
 * [Testing is not a substitute for thinking (binary search part 3)](https://reprog.wordpress.com/2010/04/23/testing-is-not-a-substitute-for-thinking-binary-search-part-3/)
 * [Writing correct code, part 1: invariants (binary search part 4a)](https://reprog.wordpress.com/2010/04/25/writing-correct-code-part-1-invariants-binary-search-part-4a/)
 * [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
+* [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -165,6 +166,7 @@ hare)
 * [Linked Lists Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
 * [Tree traversal](http://www.cs.sfu.ca/~ggbaker/zju/math/traversal.html)
 * [Tree Traversal (Wikipedia)](https://en.wikipedia.org/wiki/Tree_traversal)
+* [Bit Array](https://en.wikipedia.org/wiki/Bit_array)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
