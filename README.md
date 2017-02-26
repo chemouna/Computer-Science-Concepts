@@ -168,6 +168,7 @@ hare)
 * [Tree Traversal (Wikipedia)](https://en.wikipedia.org/wiki/Tree_traversal)
 * [Bit Array](https://en.wikipedia.org/wiki/Bit_array)
 * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
