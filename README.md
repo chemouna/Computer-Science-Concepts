@@ -101,6 +101,7 @@ hare)
 * [Writing correct code, part 1: invariants (binary search part 4a)](https://reprog.wordpress.com/2010/04/25/writing-correct-code-part-1-invariants-binary-search-part-4a/)
 * [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
 * [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse)
+* [Depth and Breadth First Search](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
