@@ -115,6 +115,7 @@ hare)
 * [Algorithms Wiki: Graph Traversal](https://wiki.algo.informatik.tu-darmstadt.de/Graph_traversal)
 * [Algorithms Wiki: Basic graph definition](https://wiki.algo.informatik.tu-darmstadt.de/Basic_graph_definitions)
 * [Depth-first search (DFS)](https://brilliant.org/wiki/depth-first-search-dfs/)
+* [Connected components](https://en.wikipedia.org/wiki/Connected_component_(graph_theory))
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
