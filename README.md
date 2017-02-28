@@ -114,6 +114,7 @@ hare)
 * [Breadth first search algorithm wiki](https://wiki.algo.informatik.tu-darmstadt.de/Breadth-first_search)
 * [Algorithms Wiki: Graph Traversal](https://wiki.algo.informatik.tu-darmstadt.de/Graph_traversal)
 * [Algorithms Wiki: Basic graph definition](https://wiki.algo.informatik.tu-darmstadt.de/Basic_graph_definitions)
+* [Depth-first search (DFS)](https://brilliant.org/wiki/depth-first-search-dfs/)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
