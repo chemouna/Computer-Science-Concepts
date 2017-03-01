@@ -102,6 +102,7 @@ hare)
 * [Closest pair of points problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
 * [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse)
 * [Depth and Breadth First Search](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
+* [Overlapping subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
