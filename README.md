@@ -103,6 +103,7 @@ hare)
 * [Using Uninitialized Memory for Fun and Profit](https://research.swtch.com/sparse)
 * [Depth and Breadth First Search](https://jeremykun.com/2013/01/22/depth-and-breadth-first-search/)
 * [Overlapping subproblems](https://en.wikipedia.org/wiki/Overlapping_subproblems)
+* [Optimal substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -212,6 +213,7 @@ hare)
 * [Möbius function](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
 * [Square free integer](https://en.wikipedia.org/wiki/Square-free_integer)
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+* [Prime Factor](https://en.wikipedia.org/wiki/Prime_factor)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
