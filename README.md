@@ -122,6 +122,7 @@ hare)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
+* [Introduction to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
