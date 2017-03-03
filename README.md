@@ -123,6 +123,7 @@ hare)
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 * [Introduction to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
+* [Dynamic programming and memoization: bottom-up vs top-down approaches](http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
