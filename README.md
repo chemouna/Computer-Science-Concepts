@@ -106,6 +106,7 @@ hare)
 * [Optimal substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 * [Maximum subarray problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 * [Lowest common ancestor](https://en.wikipedia.org/wiki/Lowest_common_ancestor)
+* [Range minimum query](https://en.wikipedia.org/wiki/Range_minimum_query)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
