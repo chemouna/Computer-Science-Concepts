@@ -251,6 +251,9 @@ hare)
 * [NUM00-J. Detect or prevent integer overflow](https://www.securecoding.cert.org/confluence/display/java/NUM00-J.+Detect+or+prevent+integer+overflow)
 * [Basic Integer Overflows](http://phrack.org/issues/60/10.html#article)
 
+## Interesting Bugs
+* [Telekom Malaysia Bhd Billing Bug Explained](http://www.exit109.com/~ghealton/y2k/TelekomBug.html)
+
 ## Low level 
 * [Call stack](https://en.wikipedia.org/wiki/Call_stack)
 
