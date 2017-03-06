@@ -109,6 +109,7 @@ hare)
 * [Range minimum query](https://en.wikipedia.org/wiki/Range_minimum_query)
 * [Recursion Reloaded](http://typeocaml.com/2014/12/04/recursion-reloaded/)
 * [Become a BST Ninja - Genin Level](http://typeocaml.com/2014/12/19/how-to-become-a-bst-ninja-genin/)
+* [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
