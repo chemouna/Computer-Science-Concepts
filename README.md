@@ -91,8 +91,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
 * [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
 * [Subset sum problem](https://en.wikipedia.org/wiki/Subset_sum_problem)
-* [Cycle detection](https://en.wikipedia.org/wiki/Cycle_detection#Floyd.27s_Tortoise_and_
-hare)
+* [Cycle detection](https://en.wikipedia.org/wiki/Cycle_detection#Floyd.27s_Tortoise_and_hare)
 * [Cycle detection: The Tale of the Teleporting Turtle.](http://www.penzba.co.uk/Writings/TheTeleportingTurtle.html)
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html)
 * [Are you one of the 10% of programmers who can write a binary search?](https://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/)
