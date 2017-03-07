@@ -114,6 +114,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [QuickSelect (Wikipedia)](https://en.wikipedia.org/wiki/Quickselect)
 * [The Median-of-Medians Algorithm (Blog post)](http://austinrochford.com/posts/2013-10-28-median-of-medians.html)
 * [Median of medians](https://en.wikipedia.org/wiki/Median_of_medians)
+* [John Tukey’s median of medians](https://www.johndcook.com/blog/2009/06/23/tukey-median-ninther/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
