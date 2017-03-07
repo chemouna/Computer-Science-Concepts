@@ -112,6 +112,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [QuickSelect Algorithm](http://blog.teamleadnet.com/2012/07/quick-select-algorithm-find-kth-element.html)
 * [Floyd–Rivest algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Rivest_algorithm)
 * [QuickSelect (Wikipedia)](https://en.wikipedia.org/wiki/Quickselect)
+* [The Median-of-Medians Algorithm (Blog post)](http://austinrochford.com/posts/2013-10-28-median-of-medians.html)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
