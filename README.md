@@ -111,6 +111,7 @@ hare)
 * [Become a BST Ninja - Genin Level](http://typeocaml.com/2014/12/19/how-to-become-a-bst-ninja-genin/)
 * [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
 * [QuickSelect Algorithm](http://blog.teamleadnet.com/2012/07/quick-select-algorithm-find-kth-element.html)
+* [Floyd–Rivest algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Rivest_algorithm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
