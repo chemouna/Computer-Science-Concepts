@@ -113,6 +113,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Floyd–Rivest algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Rivest_algorithm)
 * [QuickSelect (Wikipedia)](https://en.wikipedia.org/wiki/Quickselect)
 * [The Median-of-Medians Algorithm (Blog post)](http://austinrochford.com/posts/2013-10-28-median-of-medians.html)
+* [Median of medians](https://en.wikipedia.org/wiki/Median_of_medians)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
