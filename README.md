@@ -188,6 +188,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 * [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
+* [Bounded Priority Queue](https://wiki.algo.informatik.tu-darmstadt.de/Bounded_priority_queue)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
