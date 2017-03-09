@@ -149,6 +149,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [External Sorting](https://en.wikipedia.org/wiki/External_sorting)
 * [What is a the fastest sorting algorithm for an array of integers?](http://cs.stackexchange.com/questions/18536/what-is-a-the-fastest-sorting-algorithm-for-an-array-of-integers)
 * [In-Place Radix Sort](http://stackoverflow.com/questions/463105/in-place-radix-sort?rq=1)
+* [An intuitive understanding of heapsort ?](http://stackoverflow.com/questions/8938375/an-intuitive-understanding-of-heapsort)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
