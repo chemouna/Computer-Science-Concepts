@@ -43,6 +43,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
 * [A primer on distributed computing](http://billpg.com/bacchae-co-uk/docs/dist.html)
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
+* [Radix](https://en.wikipedia.org/wiki/Radix)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -115,6 +116,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [The Median-of-Medians Algorithm (Blog post)](http://austinrochford.com/posts/2013-10-28-median-of-medians.html)
 * [Median of medians](https://en.wikipedia.org/wiki/Median_of_medians)
 * [John Tukey’s median of medians](https://www.johndcook.com/blog/2009/06/23/tukey-median-ninther/)
+* [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -189,6 +191,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Circular Buffer](https://en.wikipedia.org/wiki/Circular_buffer)
 * [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 * [Bounded Priority Queue](https://wiki.algo.informatik.tu-darmstadt.de/Bounded_priority_queue)
+* [Heap as array](https://wiki.algo.informatik.tu-darmstadt.de/Heap_as_array)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
@@ -228,6 +231,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Square free integer](https://en.wikipedia.org/wiki/Square-free_integer)
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 * [Prime Factor](https://en.wikipedia.org/wiki/Prime_factor)
+* [Euler number](https://en.wikipedia.org/wiki/Euler_number)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
