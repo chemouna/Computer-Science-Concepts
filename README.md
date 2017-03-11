@@ -195,6 +195,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Bounded Priority Queue](https://wiki.algo.informatik.tu-darmstadt.de/Bounded_priority_queue)
 * [Heap as array](https://wiki.algo.informatik.tu-darmstadt.de/Heap_as_array)
 * [Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
+* [Trie C implementation](http://sukwonoh.blogspot.fr/2012/09/trie.html)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
