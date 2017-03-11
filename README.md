@@ -138,7 +138,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Dynamic programming and memoization: bottom-up vs top-down approaches](http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches)
 
 ## Sorting
-* [Counting sort](https://en.wikipedia.org/wioki/Counting_sort)
+* [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
 * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
@@ -194,6 +194,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [I've been writing ring buffers wrong all these years](https://www.snellman.net/blog/archive/2016-12-13-ring-buffers/)
 * [Bounded Priority Queue](https://wiki.algo.informatik.tu-darmstadt.de/Bounded_priority_queue)
 * [Heap as array](https://wiki.algo.informatik.tu-darmstadt.de/Heap_as_array)
+* [Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
