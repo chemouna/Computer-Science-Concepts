@@ -118,6 +118,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [John Tukey’s median of medians](https://www.johndcook.com/blog/2009/06/23/tukey-median-ninther/)
 * [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)
 * [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
+* [Solving the Boggle Game - Recursion, Prefix Tree, and Dynamic Programming](http://exceptional-code.blogspot.fr/2012/02/solving-boggle-game-recursion-prefix.html)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
