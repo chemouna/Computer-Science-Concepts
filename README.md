@@ -295,3 +295,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [The desceptive Anagram question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Trie application I - TopCoder SRM 342 Round 1: Tagalog alphabet sorting](http://sukwonoh.blogspot.fr/2012/09/trie-application-i-topcoder-srm-342.html)
 * [Solving Bogger: A nasality talisman for the sultana analyst](https://blogs.msdn.microsoft.com/ericlippert/2009/02/04/a-nasality-talisman-for-the-sultana-analyst/)
+* [Boggle solver series](http://www.danvk.org/wp/2014-01-25/what-up-with-boggle/)
