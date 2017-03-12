@@ -293,3 +293,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [How to Find All Overlapping Intervals](http://stackoverflow.com/questions/4542892/possible-interview-question-how-to-find-all-overlapping-intervals)
 * [Ring buffers and queues](https://fgiesen.wordpress.com/2010/12/14/ring-buffers-and-queues/)
 * [The desceptive Anagram question](http://nafiulis.me/the-deceptive-anagram-question.html)
+* [Trie application I - TopCoder SRM 342 Round 1: Tagalog alphabet sorting](http://sukwonoh.blogspot.fr/2012/09/trie-application-i-topcoder-srm-342.html)
