@@ -152,6 +152,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [What is a the fastest sorting algorithm for an array of integers?](http://cs.stackexchange.com/questions/18536/what-is-a-the-fastest-sorting-algorithm-for-an-array-of-integers)
 * [In-Place Radix Sort](http://stackoverflow.com/questions/463105/in-place-radix-sort?rq=1)
 * [An intuitive understanding of heapsort ?](http://stackoverflow.com/questions/8938375/an-intuitive-understanding-of-heapsort)
+* [Investigating Radix Sort](https://probablydance.com/2016/12/02/investigating-radix-sort/)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
@@ -296,3 +297,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Trie application I - TopCoder SRM 342 Round 1: Tagalog alphabet sorting](http://sukwonoh.blogspot.fr/2012/09/trie-application-i-topcoder-srm-342.html)
 * [Solving Bogger: A nasality talisman for the sultana analyst](https://blogs.msdn.microsoft.com/ericlippert/2009/02/04/a-nasality-talisman-for-the-sultana-analyst/)
 * [Boggle solver series](http://www.danvk.org/wp/2014-01-25/what-up-with-boggle/)
+* [Boggle Solver: A Boggling return to C](https://thraxil.org/users/anders/posts/2011/04/17/A-Boggling-Return-to-C/)
