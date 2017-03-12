@@ -282,6 +282,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Optimisation 
 * [Two divide at once optimisation](http://stereopsis.com/2div.html)
 
+## Correctness 
+* [Loop Invariants](http://www.cs.miami.edu/home/burt/learning/Math120.1/Notes/LoopInvar.html)
+
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
 * [If a String Contains an Anagram of Another String](http://blog.gainlo.co/index.php/2016/04/08/if-a-string-contains-an-anagram-of-another-string/)
