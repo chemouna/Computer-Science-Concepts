@@ -307,3 +307,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Solving Bogger: A nasality talisman for the sultana analyst](https://blogs.msdn.microsoft.com/ericlippert/2009/02/04/a-nasality-talisman-for-the-sultana-analyst/)
 * [Boggle solver series](http://www.danvk.org/wp/2014-01-25/what-up-with-boggle/)
 * [Boggle Solver: A Boggling return to C](https://thraxil.org/users/anders/posts/2011/04/17/A-Boggling-Return-to-C/)
+* [Counting inversion](https://www.cp.eng.chula.ac.th/~piak/teaching/algo/algo2008/count-inv.htm)
