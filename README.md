@@ -121,6 +121,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Solving the Boggle Game - Recursion, Prefix Tree, and Dynamic Programming](http://exceptional-code.blogspot.fr/2012/02/solving-boggle-game-recursion-prefix.html)
 * [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum)
 * [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
+* [Understanding Knuth-Morris-Pratt Algorithm](http://stackoverflow.com/questions/13271856/understanding-knuth-morris-pratt-algorithm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
