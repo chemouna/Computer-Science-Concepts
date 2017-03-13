@@ -119,6 +119,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)
 * [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 * [Solving the Boggle Game - Recursion, Prefix Tree, and Dynamic Programming](http://exceptional-code.blogspot.fr/2012/02/solving-boggle-game-recursion-prefix.html)
+* [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -239,6 +240,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
 * [Prime Factor](https://en.wikipedia.org/wiki/Prime_factor)
 * [Euler number](https://en.wikipedia.org/wiki/Euler_number)
+* [Inversion (discrete mathematics)](https://en.wikipedia.org/wiki/Inversion_%28discrete_mathematics%29)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
