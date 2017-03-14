@@ -44,6 +44,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [A primer on distributed computing](http://billpg.com/bacchae-co-uk/docs/dist.html)
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 * [Radix](https://en.wikipedia.org/wiki/Radix)
+* [Substring](https://en.wikipedia.org/wiki/Substring)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -116,13 +117,14 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [The Median-of-Medians Algorithm (Blog post)](http://austinrochford.com/posts/2013-10-28-median-of-medians.html)
 * [Median of medians](https://en.wikipedia.org/wiki/Median_of_medians)
 * [John Tukey’s median of medians](https://www.johndcook.com/blog/2009/06/23/tukey-median-ninther/)
-* [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)
 * [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
+* [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)xf
 * [Solving the Boggle Game - Recursion, Prefix Tree, and Dynamic Programming](http://exceptional-code.blogspot.fr/2012/02/solving-boggle-game-recursion-prefix.html)
 * [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum)
 * [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
 * [Understanding Knuth-Morris-Pratt Algorithm](http://stackoverflow.com/questions/13271856/understanding-knuth-morris-pratt-algorithm)
 * [String Matching: Knuth-Morris-Pratt algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm)
+* [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
