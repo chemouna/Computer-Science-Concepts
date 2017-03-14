@@ -129,6 +129,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm)
 * [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
 * [Rolling hash](https://en.wikipedia.org/wiki/Rolling_hash)
+* [A general construction for rolling hash functions](http://ticki.github.io/blog/a-general-construction-for-rolling-hash-functions/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
