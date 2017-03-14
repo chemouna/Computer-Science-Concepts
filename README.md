@@ -45,7 +45,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Substring](https://en.wikipedia.org/wiki/Substring)
-* [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -126,6 +125,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Understanding Knuth-Morris-Pratt Algorithm](http://stackoverflow.com/questions/13271856/understanding-knuth-morris-pratt-algorithm)
 * [String Matching: Knuth-Morris-Pratt algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm)
 * [Boyer-Moore algorithm](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm)
+* [Boyer-Moore algorithm explanation](http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/bmen.htm)
+* [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
