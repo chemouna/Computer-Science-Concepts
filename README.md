@@ -130,6 +130,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Rabin–Karp algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
 * [Rolling hash](https://en.wikipedia.org/wiki/Rolling_hash)
 * [A general construction for rolling hash functions](http://ticki.github.io/blog/a-general-construction-for-rolling-hash-functions/)
+* [Rabin–Karp algorithm on P3G](http://wcipeg.com/wiki/Rabin%E2%80%93Karp_algorithm)
+* [Rabin-Karp implementation in Python](https://mccricardo.wordpress.com/2013/11/21/string-searching-algorithm-rabin-karp/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
