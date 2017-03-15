@@ -118,7 +118,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Median of medians](https://en.wikipedia.org/wiki/Median_of_medians)
 * [John Tukey’s median of medians](https://www.johndcook.com/blog/2009/06/23/tukey-median-ninther/)
 * [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
-* [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)xf
+* [When should I choose bucket sort over other sorting algorithms ?](http://stackoverflow.com/questions/31633391/when-should-i-choose-bucket-sort-over-other-sorting-algorithm)
 * [Solving the Boggle Game - Recursion, Prefix Tree, and Dynamic Programming](http://exceptional-code.blogspot.fr/2012/02/solving-boggle-game-recursion-prefix.html)
 * [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum)
 * [The Knuth-Morris-Pratt Algorithm in my own words](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
@@ -148,6 +148,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Depth-first search (DFS)](https://brilliant.org/wiki/depth-first-search-dfs/)
 * [Connected components](https://en.wikipedia.org/wiki/Connected_component_(graph_theory))
 * [Djikstra's algorithm: experimenting with different implementation performance](https://gabormakrai.wordpress.com/2015/02/11/experimenting-with-dijkstras-algorithm/)
+* [why Dijkstra's algorithm will not work with negative weights](http://stackoverflow.com/questions/6799172/negative-weights-using-dijkstras-algorithm)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
