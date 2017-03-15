@@ -147,6 +147,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Algorithms Wiki: Basic graph definition](https://wiki.algo.informatik.tu-darmstadt.de/Basic_graph_definitions)
 * [Depth-first search (DFS)](https://brilliant.org/wiki/depth-first-search-dfs/)
 * [Connected components](https://en.wikipedia.org/wiki/Connected_component_(graph_theory))
+* [Djikstra's algorithm: experimenting with different implementation performance](https://gabormakrai.wordpress.com/2015/02/11/experimenting-with-dijkstras-algorithm/)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
