@@ -216,6 +216,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Heap as array](https://wiki.algo.informatik.tu-darmstadt.de/Heap_as_array)
 * [Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
 * [Trie C implementation](http://sukwonoh.blogspot.fr/2012/09/trie.html)
+* [Binomial heap](https://en.wikipedia.org/wiki/Binomial_heap)
+* [Why is a Fibonacci heap called a Fibonacci heap?](http://stackoverflow.com/questions/14333314/why-is-a-fibonacci-heap-called-a-fibonacci-heap)
+* [Fibonacci Heap Visualisation](http://cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
