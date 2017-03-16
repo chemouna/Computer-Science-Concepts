@@ -327,3 +327,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Boggle solver series](http://www.danvk.org/wp/2014-01-25/what-up-with-boggle/)
 * [Boggle Solver: A Boggling return to C](https://thraxil.org/users/anders/posts/2011/04/17/A-Boggling-Return-to-C/)
 * [Counting inversion](https://www.cp.eng.chula.ac.th/~piak/teaching/algo/algo2008/count-inv.htm)
+* [Finding a shortest path given a timetable](http://blog.eldslott.org/tag/dijkstra/)
