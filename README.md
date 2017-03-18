@@ -136,6 +136,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Why does Dijkstra's algorithm use decrease-key?](http://stackoverflow.com/questions/9255620/why-does-dijkstras-algorithm-use-decrease-key)
 * [Minimum spanning tree](https://en.wikipedia.org/wiki/Minimum_spanning_tree)
 * [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+* [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
