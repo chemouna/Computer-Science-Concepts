@@ -133,6 +133,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Rabin–Karp algorithm on P3G](http://wcipeg.com/wiki/Rabin%E2%80%93Karp_algorithm)
 * [Rabin-Karp implementation in Python](https://mccricardo.wordpress.com/2013/11/21/string-searching-algorithm-rabin-karp/)
 * [Why should hash functions use a prime number modulus?](http://stackoverflow.com/questions/1145217/why-should-hash-functions-use-a-prime-number-modulus?rq=1)
+* [Why does Dijkstra's algorithm use decrease-key?](http://stackoverflow.com/questions/9255620/why-does-dijkstras-algorithm-use-decrease-key)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
