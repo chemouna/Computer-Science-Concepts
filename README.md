@@ -340,3 +340,4 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Counting inversion](https://www.cp.eng.chula.ac.th/~piak/teaching/algo/algo2008/count-inv.htm)
 * [Finding a shortest path given a timetable](http://blog.eldslott.org/tag/dijkstra/)
 * [How to determine the longest increasing subsequence using dynamic programming ?](http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming)
+* [Longest palindromic substring](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
