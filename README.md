@@ -156,6 +156,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Djikstra's algorithm: experimenting with different implementation performance](https://gabormakrai.wordpress.com/2015/02/11/experimenting-with-dijkstras-algorithm/)
 * [why Dijkstra's algorithm will not work with negative weights](http://stackoverflow.com/questions/6799172/negative-weights-using-dijkstras-algorithm)
 * [Introduction to Graph Theory: Finding The Shortest Path](http://www.maxburstein.com/blog/introduction-to-graph-theory-finding-shortest-path/)
+* [Iterative deepening vs depth-first search](http://stackoverflow.com/questions/7395992/iterative-deepening-vs-depth-first-search)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
