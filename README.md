@@ -139,6 +139,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 * [Online Algorithm](https://en.wikipedia.org/wiki/Online_algorithm)
 * [Ukkonen's algorithm](https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm)
+* [Interactive Wiki of Algorithms](http://will.thimbleby.net/algorithms/doku.php?id=start)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -167,7 +168,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
-* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)* 
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Tim Sort](https://en.wikipedia.org/wiki/Timsort)
