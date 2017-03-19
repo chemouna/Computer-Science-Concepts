@@ -164,6 +164,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 * [Introduction to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
 * [Dynamic programming and memoization: bottom-up vs top-down approaches](http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches)
+* [Longest increasing subsequence](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
