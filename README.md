@@ -140,6 +140,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Online Algorithm](https://en.wikipedia.org/wiki/Online_algorithm)
 * [Ukkonen's algorithm](https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm)
 * [Interactive Wiki of Algorithms](http://will.thimbleby.net/algorithms/doku.php?id=start)
+* [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
