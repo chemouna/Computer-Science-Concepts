@@ -230,6 +230,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Binomial heap](https://en.wikipedia.org/wiki/Binomial_heap)
 * [Why is a Fibonacci heap called a Fibonacci heap?](http://stackoverflow.com/questions/14333314/why-is-a-fibonacci-heap-called-a-fibonacci-heap)
 * [Fibonacci Heap Visualisation](http://cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
+* [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
