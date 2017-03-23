@@ -162,6 +162,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
 * [Computing Strongly Connected Components](http://goodmath.scientopia.org/2007/10/30/computing-strongly-connected-components/)
 * [Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+* [Disjoint-set Data Structures (Topcoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
