@@ -160,6 +160,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Introduction to Graph Theory: Finding The Shortest Path](http://www.maxburstein.com/blog/introduction-to-graph-theory-finding-shortest-path/)
 * [Iterative deepening vs depth-first search](http://stackoverflow.com/questions/7395992/iterative-deepening-vs-depth-first-search)
 * [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
+* [Computing Strongly Connected Components](http://goodmath.scientopia.org/2007/10/30/computing-strongly-connected-components/)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
