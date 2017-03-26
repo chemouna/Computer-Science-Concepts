@@ -172,6 +172,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Longest common subsequence problem (Wikipedia)](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 * [Longest Common Subsequence](http://www.algorithmist.com/index.php/Longest_Common_Subsequence)
 * [Matrix Chain Multiplication](https://en.wikipedia.org/wiki/Matrix_chain_multiplication)
+* [Egg Dropping](https://brilliant.org/wiki/egg-dropping/)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
