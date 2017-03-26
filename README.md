@@ -140,7 +140,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Online Algorithm](https://en.wikipedia.org/wiki/Online_algorithm)
 * [Ukkonen's algorithm](https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm)
 * [Interactive Wiki of Algorithms](http://will.thimbleby.net/algorithms/doku.php?id=start)
-* [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -170,7 +169,9 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Introduction to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
 * [Dynamic programming and memoization: bottom-up vs top-down approaches](http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches)
 * [Longest increasing subsequence](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
+* [Longest common subsequence problem (Wikipedia)](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 * [Longest Common Subsequence](http://www.algorithmist.com/index.php/Longest_Common_Subsequence)
+* [Matrix Chain Multiplication](https://en.wikipedia.org/wiki/Matrix_chain_multiplication)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
