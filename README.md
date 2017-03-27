@@ -140,6 +140,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Online Algorithm](https://en.wikipedia.org/wiki/Online_algorithm)
 * [Ukkonen's algorithm](https://en.wikipedia.org/wiki/Ukkonen%27s_algorithm)
 * [Interactive Wiki of Algorithms](http://will.thimbleby.net/algorithms/doku.php?id=start)
+* [Linear probing](https://en.wikipedia.org/wiki/Linear_probing)
+* [Primary clustering](https://en.wikipedia.org/wiki/Primary_clustering)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -239,6 +241,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Why is a Fibonacci heap called a Fibonacci heap?](http://stackoverflow.com/questions/14333314/why-is-a-fibonacci-heap-called-a-fibonacci-heap)
 * [Fibonacci Heap Visualisation](http://cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
 * [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+* [How HashMap works in Java](http://javarevisited.blogspot.fr/2014/07/java-optimization-empty-arraylist-and-Hashmap-cost-less-memory-jdk-17040-update.html)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
