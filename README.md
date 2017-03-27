@@ -142,6 +142,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Interactive Wiki of Algorithms](http://will.thimbleby.net/algorithms/doku.php?id=start)
 * [Linear probing](https://en.wikipedia.org/wiki/Linear_probing)
 * [Primary clustering](https://en.wikipedia.org/wiki/Primary_clustering)
+* [Binary Search (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
