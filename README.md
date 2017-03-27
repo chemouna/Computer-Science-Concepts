@@ -173,11 +173,12 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Longest Common Subsequence](http://www.algorithmist.com/index.php/Longest_Common_Subsequence)
 * [Matrix Chain Multiplication](https://en.wikipedia.org/wiki/Matrix_chain_multiplication)
 * [Egg Dropping](https://brilliant.org/wiki/egg-dropping/)
+* [Optimal binary search tree](https://en.wikipedia.org/wiki/Optimal_binary_search_tree)
 
 ## Sorting
 * [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 * [HeapSort](https://en.wikipedia.org/wiki/Heapsort)
-* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)* 
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Tim Sort](https://en.wikipedia.org/wiki/Timsort)
