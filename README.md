@@ -143,6 +143,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Linear probing](https://en.wikipedia.org/wiki/Linear_probing)
 * [Primary clustering](https://en.wikipedia.org/wiki/Primary_clustering)
 * [Binary Search (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+* [Text Alignment (Dynamic Programming)](http://cs.nyu.edu/courses/spring16/CSCI-GA.1170-001/TextAlignment.pdf)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
