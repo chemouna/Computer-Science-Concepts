@@ -246,6 +246,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [How HashMap works in Java](http://javarevisited.blogspot.fr/2014/07/java-optimization-empty-arraylist-and-Hashmap-cost-less-memory-jdk-17040-update.html)
 * [B-Tree](https://en.wikipedia.org/wiki/B-tree)
 * [Rope Data Structure](https://brianbondy.com/blog/90/introducing-the-rope-data-structure)
+* [Original Paper on Rope Data Structure: Ropes: an Alternative to Strings](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.14.9450&rep=rep1&type=pdf)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
