@@ -290,6 +290,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Euler number](https://en.wikipedia.org/wiki/Euler_number)
 * [Inversion (discrete mathematics)](https://en.wikipedia.org/wiki/Inversion_%28discrete_mathematics%29)
 * [Pandigital number](https://en.wikipedia.org/wiki/Pandigital_number)
+* [Polydivisible number](https://en.wikipedia.org/wiki/Polydivisible_number)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
