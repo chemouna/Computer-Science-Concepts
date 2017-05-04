@@ -144,6 +144,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Primary clustering](https://en.wikipedia.org/wiki/Primary_clustering)
 * [Binary Search (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 * [Text Alignment (Dynamic Programming)](http://cs.nyu.edu/courses/spring16/CSCI-GA.1170-001/TextAlignment.pdf)
+* [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -273,7 +274,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 ## Programming Languages
 * [miniKaren](https://en.wikipedia.org/wiki/MiniKanren)
 
-## Mathematics 
+## Mathematics
 * [Monotonic function](https://en.wikipedia.org/wiki/Monotonic_function)
 * [Topology](https://en.wikipedia.org/wiki/Topology)
 * [Topological space](https://en.wikipedia.org/wiki/Topological_space)
