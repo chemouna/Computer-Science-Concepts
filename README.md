@@ -339,6 +339,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Loop invariant (Wikipedia)](https://en.wikipedia.org/wiki/Loop_invariant)
 * [Loop Invariants Examples](http://www.cs.miami.edu/home/burt/learning/Math120.1/Notes/LoopInvar.html)
 
+## Computational Complexity 
+* [Shaving Logs with Unit Cost](http://blog.computationalcomplexity.org/2009/05/shaving-logs-with-unit-cost.html)
+
+
 ## Other algorithms
 * [Group Anagrams](http://blog.gainlo.co/index.php/2016/05/06/group-anagrams/)
 * [If a String Contains an Anagram of Another String](http://blog.gainlo.co/index.php/2016/04/08/if-a-string-contains-an-anagram-of-another-string/)
