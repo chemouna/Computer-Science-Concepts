@@ -250,6 +250,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Rope Data Structure](https://brianbondy.com/blog/90/introducing-the-rope-data-structure)
 * [Original Paper on Rope Data Structure: Ropes: an Alternative to Strings](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.14.9450&rep=rep1&type=pdf)
 * [Skiplist](https://en.wikipedia.org/wiki/Skip_list)
+* [Segment tree](https://en.wikipedia.org/wiki/Segment_tree)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
@@ -367,3 +368,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Finding a shortest path given a timetable](http://blog.eldslott.org/tag/dijkstra/)
 * [How to determine the longest increasing subsequence using dynamic programming ?](http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming)
 * [Longest palindromic substring](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
+
+## Interesting CS blog posts
+* [Computer Science Blows My Mind](http://twistedoakstudios.com/blog/Post3631_computer-science-blows-my-mind)
