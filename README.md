@@ -251,6 +251,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Original Paper on Rope Data Structure: Ropes: an Alternative to Strings](http://citeseer.ist.psu.edu/viewdoc/download?doi=10.1.1.14.9450&rep=rep1&type=pdf)
 * [Skiplist](https://en.wikipedia.org/wiki/Skip_list)
 * [Segment tree](https://en.wikipedia.org/wiki/Segment_tree)
+* [The intuition behind binary indexed trees](https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
