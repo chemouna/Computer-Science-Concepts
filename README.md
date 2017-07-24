@@ -169,6 +169,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Disjoint-set Data Structures (Topcoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/disjoint-set-data-structures/)
 * [Topological Sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 * [BFS vs DFS: Big O Isn't Everything](http://marcharper.codes/2016-07-21/BFS+vs+DFS.html)
+* [Path](https://en.wikipedia.org/wiki/Path_%28graph_theory%29)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
@@ -373,3 +374,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Interesting CS blog posts
 * [Computer Science Blows My Mind](http://twistedoakstudios.com/blog/Post3631_computer-science-blows-my-mind)
+
+## Web
+* [Webhook](https://en.wikipedia.org/wiki/Webhook)
