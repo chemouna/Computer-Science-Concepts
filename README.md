@@ -45,6 +45,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Substring](https://en.wikipedia.org/wiki/Substring)
+* [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
