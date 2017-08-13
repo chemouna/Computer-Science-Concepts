@@ -273,6 +273,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Functions
 * [Strict function](https://en.wikipedia.org/wiki/Strict_function)
+* [Variadic function](https://en.wikipedia.org/wiki/Variadic_function)
 
 ## Lisp
 * [cons](https://en.wikipedia.org/wiki/Cons)
