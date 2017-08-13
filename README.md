@@ -196,6 +196,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [In-Place Radix Sort](http://stackoverflow.com/questions/463105/in-place-radix-sort?rq=1)
 * [An intuitive understanding of heapsort ?](http://stackoverflow.com/questions/8938375/an-intuitive-understanding-of-heapsort)
 * [Investigating Radix Sort](https://probablydance.com/2016/12/02/investigating-radix-sort/)
+* [Schwartzian transform](https://en.wikipedia.org/wiki/Schwartzian_transform)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
