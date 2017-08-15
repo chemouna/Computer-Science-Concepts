@@ -46,8 +46,6 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Substring](https://en.wikipedia.org/wiki/Substring)
 * [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
-* [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
-* [What is "duck typing"?](https://ericlippert.com/2014/01/02/what-is-duck-typing/comment-page-1/)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -265,6 +263,10 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Typed lambda calculus](https://en.wikipedia.org/wiki/Typed_lambda_calculus)
 * [Integer overflow](https://en.wikipedia.org/wiki/Integer_overflow)
 * [Integer](https://en.wikipedia.org/wiki/Integer_(computer_science))
+* [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
+* [What is "duck typing"?](https://ericlippert.com/2014/01/02/what-is-duck-typing/comment-page-1/)
+* [Duck Typing Is More Than Quackery](http://haacked.com/archive/2014/01/04/duck-typing/)
+
 
 ## Operations
 * [Car and Cdr](https://en.wikipedia.org/wiki/CAR_and_CDR)
