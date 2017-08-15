@@ -46,6 +46,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Substring](https://en.wikipedia.org/wiki/Substring)
 * [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
+* [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -276,6 +277,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Variadic function](https://en.wikipedia.org/wiki/Variadic_function)
 
 ## Lisp
+
 * [cons](https://en.wikipedia.org/wiki/Cons)
 * [Lisp reader](https://en.wikipedia.org/wiki/Lisp_reader)
 
