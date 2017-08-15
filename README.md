@@ -47,6 +47,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Substring](https://en.wikipedia.org/wiki/Substring)
 * [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
 * [Duck Typing](https://en.wikipedia.org/wiki/Duck_typing)
+* [What is "duck typing"?](https://ericlippert.com/2014/01/02/what-is-duck-typing/comment-page-1/)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
