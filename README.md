@@ -306,6 +306,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Pandigital number](https://en.wikipedia.org/wiki/Pandigital_number)
 * [Polydivisible number](https://en.wikipedia.org/wiki/Polydivisible_number)
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle#Counting_integers)
+* [Rearrangement Inequality](https://artofproblemsolving.com/wiki/index.php?title=Rearrangement_Inequality)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
