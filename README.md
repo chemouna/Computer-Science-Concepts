@@ -46,6 +46,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Radix](https://en.wikipedia.org/wiki/Radix)
 * [Substring](https://en.wikipedia.org/wiki/Substring)
 * [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
+* [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
@@ -308,6 +309,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle#Counting_integers)
 * [Rearrangement Inequality (AOPS)](https://artofproblemsolving.com/wiki/index.php?title=Rearrangement_Inequality)
 * [Rearrangement inequality (Wikipedia)](https://en.wikipedia.org/wiki/Rearrangement_inequality)
+
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
