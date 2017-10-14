@@ -309,7 +309,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Inclusion–exclusion principle](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle#Counting_integers)
 * [Rearrangement Inequality (AOPS)](https://artofproblemsolving.com/wiki/index.php?title=Rearrangement_Inequality)
 * [Rearrangement inequality (Wikipedia)](https://en.wikipedia.org/wiki/Rearrangement_inequality)
-
+* [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
