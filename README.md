@@ -199,6 +199,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [An intuitive understanding of heapsort ?](http://stackoverflow.com/questions/8938375/an-intuitive-understanding-of-heapsort)
 * [Investigating Radix Sort](https://probablydance.com/2016/12/02/investigating-radix-sort/)
 * [Schwartzian transform](https://en.wikipedia.org/wiki/Schwartzian_transform)
+* [Multi-key quicksort](https://en.wikipedia.org/wiki/Multi-key_quicksort)
 
 ## Tools
 * [Package manager](https://en.wikipedia.org/wiki/Package_manager)
