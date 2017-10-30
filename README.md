@@ -147,6 +147,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Binary Search (TopCoder)](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 * [Text Alignment (Dynamic Programming)](http://cs.nyu.edu/courses/spring16/CSCI-GA.1170-001/TextAlignment.pdf)
 * [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
+* [Boyer–Moore majority vote algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+* [Majority Voting Algorithm Blogpost](https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
@@ -312,6 +314,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Rearrangement Inequality (AOPS)](https://artofproblemsolving.com/wiki/index.php?title=Rearrangement_Inequality)
 * [Rearrangement inequality (Wikipedia)](https://en.wikipedia.org/wiki/Rearrangement_inequality)
 * [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+* [Unimodular matrix](https://en.wikipedia.org/wiki/Unimodular_matrix)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
