@@ -149,6 +149,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle)
 * [Boyer–Moore majority vote algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
 * [Majority Voting Algorithm Blogpost](https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html)
+* [Steiner tree problem](https://en.wikipedia.org/wiki/Steiner_tree_problem)
 
 ## Graph Algorithms
 * [Retrieve alphabetic order from dictionary](http://stackoverflow.com/questions/3123554/question-from-interview-retrieve-alphabetic-order-from-dictionary)
