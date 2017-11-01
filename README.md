@@ -393,6 +393,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 
 ## Interesting CS blog posts
 * [Computer Science Blows My Mind](http://twistedoakstudios.com/blog/Post3631_computer-science-blows-my-mind)
+* [Why My Soap Film Is Better Than Your Hadoop Cluster](http://highscalability.com/blog/2012/6/13/why-my-soap-film-is-better-than-your-hadoop-cluster.html)
 
 ## Web
 * [Webhook](https://en.wikipedia.org/wiki/Webhook)
