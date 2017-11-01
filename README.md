@@ -316,6 +316,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Rearrangement inequality (Wikipedia)](https://en.wikipedia.org/wiki/Rearrangement_inequality)
 * [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
 * [Unimodular matrix](https://en.wikipedia.org/wiki/Unimodular_matrix)
+* [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
