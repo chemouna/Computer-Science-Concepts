@@ -175,6 +175,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Topological Sorting](https://en.wikipedia.org/wiki/Topological_sorting)
 * [BFS vs DFS: Big O Isn't Everything](http://marcharper.codes/2016-07-21/BFS+vs+DFS.html)
 * [Path](https://en.wikipedia.org/wiki/Path_%28graph_theory%29)
+* [Johnson's algorithm](https://en.wikipedia.org/wiki/Johnson%27s_algorithm)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
@@ -317,6 +318,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
 * [Unimodular matrix](https://en.wikipedia.org/wiki/Unimodular_matrix)
 * [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance)
+* [Fermat Point](https://en.wikipedia.org/wiki/Fermat_point)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
