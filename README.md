@@ -177,6 +177,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Path](https://en.wikipedia.org/wiki/Path_%28graph_theory%29)
 * [Johnson's algorithm](https://en.wikipedia.org/wiki/Johnson%27s_algorithm)
 * [Bellman–Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+* [Prefix Sum](https://en.wikipedia.org/wiki/Prefix_sum)
 
 ## Dynamic Programming
 * [Knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem)
