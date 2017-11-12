@@ -270,6 +270,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [The intuition behind binary indexed trees](https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a)
 * [Fenwick tree](https://en.wikipedia.org/wiki/Fenwick_tree)
 * [On Tries (CodeForces)](http://codeforces.com/blog/entry/23007)
+* [Binomial Heaps](https://en.wikipedia.org/wiki/Binomial_heap)
+* [Implicit data structure](https://en.wikipedia.org/wiki/Implicit_data_structure)
 
 ## Types
 * [What the Heck are Algebraic Data Types ? ](http://merrigrove.blogspot.fr/2011/12/another-introduction-to-algebraic-data.html)
