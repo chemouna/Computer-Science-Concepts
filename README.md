@@ -328,6 +328,8 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Unimodular matrix](https://en.wikipedia.org/wiki/Unimodular_matrix)
 * [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance)
 * [Fermat Point](https://en.wikipedia.org/wiki/Fermat_point)
+* [Zeller's congruence](https://en.wikipedia.org/wiki/Zeller%27s_congruence)
+* [Concrete Mathematics Book First Chapter explanation](https://perkss.github.io/#/MathFundamentals/ConcreteMathematics#text-body)
 
 ## Category Theory 
 * [Morphism](https://en.wikipedia.org/wiki/Morphism)
