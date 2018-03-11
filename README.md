@@ -48,6 +48,7 @@ So with this project i'm trying to apply that but mostly for computer science co
 * [Literal](https://en.wikipedia.org/wiki/Literal_(computer_programming))
 * [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
 * [Eventual Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Hamming Weight](https://en.wikipedia.org/wiki/Hamming_weight)
 
 ## OS fundamentals
 * [Paging](https://en.wikipedia.org/wiki/Paging)
